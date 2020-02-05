@@ -1,3 +1,6 @@
+The purpose of this application is to work with a third party API that hs random Chuck Norris facts(https://api.chucknorris.io/jokes/random).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
