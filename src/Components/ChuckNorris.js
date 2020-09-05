@@ -15,7 +15,6 @@ export default class ChuckNorris extends Component {
   // Whatever is inside this component will run
   componentDidMount(){
 
-
     fetch('https://api.chucknorris.io/jokes/random')
       .then(data => data.json())
       .then(data => {
